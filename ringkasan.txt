@@ -1,4 +1,5 @@
 materi cloud computing
 jenis-jenis hosting
+membuat desain
 ....>Dedicatate
 ....>Colication
