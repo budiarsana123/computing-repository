@@ -1,4 +1,4 @@
 materi cloud computing
 jenis-jenis hosting
-....>Dedicative
+....>Dedicatate
 ....>Colication
