@@ -1,2 +1,4 @@
 materi cloud computing
 jenis-jenis hosting
+...>Dedicatate
+...>Colacation
